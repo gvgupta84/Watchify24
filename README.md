@@ -1,3 +1,6 @@
+Problem Statement: Developing a React-based frontend clone of Netflix, the project aims to replicate the user interface and design of the popular streaming platform. Focused on creating a visually appealing and responsive interface, the challenge lies in implementing dynamic components, seamless navigation, and ensuring an engaging user experience.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
